@@ -1,0 +1,76 @@
+Reminder Does not Repeat Reminder Does not Repeat testing 2019-07-22 Does not repeat
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Daily Reminder Daily testing 2019-07-22 Daily
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Weekly Reminder Weekly testing 2019-07-22 Weekly
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder BiAnnually Reminder BiAnnually testing 2019-07-22 BiAnnually
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Annually Reminder Annually testing 2019-07-22 Annually
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Monthly Reminder Monthly testing 2019-07-22 Monthly
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+hello, it's 23/07/2019 07:45:41
+Reminder Does not Repeat Reminder Does not Repeat testing 2019-07-22 Does not repeat
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Daily Reminder Daily testing 2019-07-22 Daily
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Weekly Reminder Weekly testing 2019-07-22 Weekly
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder BiAnnually Reminder BiAnnually testing 2019-07-22 BiAnnually
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Annually Reminder Annually testing 2019-07-22 Annually
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+Reminder Monthly Reminder Monthly testing 2019-07-22 Monthly
+not all
+SELECT * FROM ccsfif.faculty WHERE POSITION_ID = 'P0004';
+hello, it's 23/07/2019 07:46:21
+Checking Reminder: Reminder Does not Repeat Reminder Does not Repeat testing 2019-07-22 Does not repeat
+not all
+Checking Reminder: Reminder Daily Reminder Daily testing 2019-07-22 Daily
+not all
+Reminder Reminder Daily sent
+Checking Reminder: Reminder Weekly Reminder Weekly testing 2019-07-22 Weekly
+not all
+Checking Reminder: Reminder BiAnnually Reminder BiAnnually testing 2019-07-22 BiAnnually
+not all
+Checking Reminder: Reminder Annually Reminder Annually testing 2019-07-22 Annually
+not all
+Checking Reminder: Reminder Monthly Reminder Monthly testing 2019-07-22 Monthly
+not all
+hello, it's 23/07/2019 07:50:50
+24/07/2019 06:00:02: Checking Reminder: Reminder Does not Repeat Reminder Does not Repeat testing 2019-07-22 Does not repeat
+24/07/2019 06:00:02: Checking Reminder: Reminder Daily Reminder Daily testing 2019-07-22 Daily
+24/07/2019 06:01:55: Reminder: Reminder Daily sent
+24/07/2019 06:01:55: Checking Reminder: Reminder Weekly Reminder Weekly testing 2019-07-22 Weekly
+24/07/2019 06:01:55: Checking Reminder: Reminder BiAnnually Reminder BiAnnually testing 2019-07-22 BiAnnually
+24/07/2019 06:01:55: Checking Reminder: Reminder Annually Reminder Annually testing 2019-07-22 Annually
+24/07/2019 06:01:55: Checking Reminder: Reminder Monthly Reminder Monthly testing 2019-07-22 Monthly
+script run ended 24/07/2019 06:01:55
+25/07/2019 06:00:07: Checking Reminder: Reminder Does not Repeat Reminder Does not Repeat testing 2019-07-22 Does not repeat
+25/07/2019 06:00:07: Checking Reminder: Reminder Daily Reminder Daily testing 2019-07-22 Daily
+25/07/2019 06:01:56: Reminder: Reminder Daily sent
+25/07/2019 06:01:56: Checking Reminder: Reminder Weekly Reminder Weekly testing 2019-07-22 Weekly
+25/07/2019 06:01:56: Checking Reminder: Reminder BiAnnually Reminder BiAnnually testing 2019-07-22 BiAnnually
+25/07/2019 06:01:56: Checking Reminder: Reminder Annually Reminder Annually testing 2019-07-22 Annually
+25/07/2019 06:01:56: Checking Reminder: Reminder Monthly Reminder Monthly testing 2019-07-22 Monthly
+script run ended 25/07/2019 06:01:56
+26/07/2019 06:00:03: Checking Reminder: Reminder Does not Repeat Reminder Does not Repeat testing 2019-07-22 Does not repeat
+26/07/2019 06:00:03: Checking Reminder: Reminder Daily Reminder Daily testing 2019-07-22 Daily
+26/07/2019 06:01:55: Reminder: Reminder Daily sent
+26/07/2019 06:01:55: Checking Reminder: Reminder Weekly Reminder Weekly testing 2019-07-22 Weekly
+26/07/2019 06:01:55: Checking Reminder: Reminder BiAnnually Reminder BiAnnually testing 2019-07-22 BiAnnually
+26/07/2019 06:01:55: Checking Reminder: Reminder Annually Reminder Annually testing 2019-07-22 Annually
+26/07/2019 06:01:55: Checking Reminder: Reminder Monthly Reminder Monthly testing 2019-07-22 Monthly
+script run ended 26/07/2019 06:01:55
